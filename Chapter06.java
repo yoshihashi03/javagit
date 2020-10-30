@@ -3,6 +3,9 @@ public class Chapter06 {
         int val = 2 + 5;
         System.out.println(val);
 
+        ++val;
+        System.out.println(val);
+
         val++;
         System.out.println(val);
 
